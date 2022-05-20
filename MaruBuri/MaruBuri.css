@@ -1,0 +1,23 @@
+
+@font-face { font-family: 'MaruBuri-Bold'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/MaruBuri/MaruBuri-Bold.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'MaruBuri-ExtraLight'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/MaruBuri/MaruBuri-ExtraLight.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+
+@font-face { font-family: 'MaruBuri-Light'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/MaruBuri/MaruBuri-Light.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+
+@font-face { font-family: 'MaruBuri-Regular'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/MaruBuri/MaruBuri-Regular.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+
+@font-face { font-family: 'MaruBuri-SemiBold'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/MaruBuri/MaruBuri-SemiBold.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
