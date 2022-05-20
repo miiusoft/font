@@ -1,0 +1,21 @@
+
+@font-face { font-family: 'NanumGothic'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/NanumGothic/NanumGothic.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+
+@font-face { font-family: 'NanumGothicLight'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/NanumGothic/NanumGothicLight.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+
+@font-face { font-family: 'NanumGothicBold'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/NanumGothic/NanumGothicBold.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+
+@font-face { font-family: 'NanumGothicExtraBold'; 
+src: url('https://cdn.jsdelivr.net/gh/miiusoft/font/NanumGothic/NanumGothicExtraBold.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+
+
